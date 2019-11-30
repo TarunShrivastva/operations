@@ -102,8 +102,5 @@ class TaskController extends Controller
             $form->display('created_at', 'Created At');
             $form->display('updated_at', 'Updated At');
         });
-
-
-        
     }
 }
